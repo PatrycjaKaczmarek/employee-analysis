@@ -4,22 +4,22 @@
 [View the dashboard in Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiODMzMWY0OWEtN2FlNS00M2U0LTkwYWEtNGJmZDMzYWE1ZTRkIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9)
 
 ## 🎯 Project Objective
-The goal of this project was to create an interactive Power BI dashboard to analyze employment structure, trainings and recruitment processes.
+The objective of this project was to create an interactive Power BI dashboard to analyze employee structure, training activities and recruitment processes.
 
 ## 📊 Scope of Analysis
 - Key Performance Indicators [KPIs]
-- Trainings costs and structure 
-- Employees clasification
-- Summary of the recruitment process
+- Training costs and structure
+- Employee classification
+- Recruitment process overview
 
 ## 🗂 Data Source
-- Data from Kaggle [CSV / Excel]
+- Public dataset from Kaggle [CSV / Excel]
 - Data cleaned and transformed using Power Query
 
 ## 🔍 Analytical Approach
 - Exploratory data analysis to identify patterns and anomalies
 - Creation of calculated measures using DAX
-- Time-based analysis to track performance changes
+- Time-based analysis to track changes over time
 - Interactive visualizations for self-service analysis
 
 ## 🛠 Tools & Technologies
@@ -29,13 +29,13 @@ The goal of this project was to create an interactive Power BI dashboard to anal
 - Excel / CSV
 
 ## 📈 Key Insights
-- Improved visibility of KPIs in a single dashboard
-- Identification of the most expensive and missing trainings
-- Employment overview by departments
+- Improved visibility of HR KPIs in a single dashboard
+- Identification of the most costly and missing training areas
+- Clear overview of employee distribution by department
 
 ## 📁 Repository Content
-- `.pbix` file with the Power BI dashboard
-- Screenshots of the dashboard
+- Power BI `.pbix` file
+- Dashboard screenshots
 
 ## 👤 Author
 Patrycja Kaczmarek
