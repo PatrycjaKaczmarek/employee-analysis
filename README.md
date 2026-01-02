@@ -10,7 +10,7 @@ The goal of this project was to create an interactive Power BI dashboard to anal
 - Summary of the recruitment process
 
 ## 🗂 Data Source
-- Data from Kaggle (CSV / Excel)
+- Data from Kaggle [CSV / Excel]
 - Data cleaned and transformed using Power Query
 
 ## 🔍 Analytical Approach
@@ -21,7 +21,7 @@ The goal of this project was to create an interactive Power BI dashboard to anal
 
 ## 🛠 Tools & Technologies
 - Power BI
-- DAX (CALCULATE, FILTER, Time Intelligence)
+- DAX [CALCULATE, FILTER, Time Intelligence]
 - Power Query
 - Excel / CSV
 
