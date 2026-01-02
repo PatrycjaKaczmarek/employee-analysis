@@ -1,5 +1,8 @@
 # Employee Analysis - Power BI
 
+## 🔗 Live Dashboard
+[View the dashboard in Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiODMzMWY0OWEtN2FlNS00M2U0LTkwYWEtNGJmZDMzYWE1ZTRkIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9)
+
 ## 🎯 Project Objective
 The goal of this project was to create an interactive Power BI dashboard to analyze employment structure, trainings and recruitment processes.
 
