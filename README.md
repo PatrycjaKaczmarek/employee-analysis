@@ -3,6 +3,11 @@
 ## 🔗 Live Dashboard
 [View the dashboard in Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiODMzMWY0OWEtN2FlNS00M2U0LTkwYWEtNGJmZDMzYWE1ZTRkIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9)
 
+## 📸 Dashboard Preview
+![Overview](overview.jpg)
+![Trainings](training.jpg)
+![Recruitment](recruitment.jpg)
+
 ## 🎯 Project Objective
 The objective of this project was to create an interactive Power BI dashboard to analyze employee structure, training activities and recruitment processes.
 
